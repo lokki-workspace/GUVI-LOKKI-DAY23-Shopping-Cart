@@ -1,0 +1,71 @@
+.App{
+  text-align: center;
+}
+.card-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap:3rem;
+  margin: 80px;
+  justify-content: center;
+  padding: 10px;
+}
+.cart-value{
+  display: flex;
+  justify-content: end;
+  font-size: larger;
+  margin: 10px;
+
+}
+
+.add{
+  height: 40px;
+  padding: 10px;
+}
+
+.card-data{
+   width: 450px;
+}
+.sizeTop{
+  height: 180px;
+}
+.sizeBottom{
+  height: 200px;
+}
+
+.card-data{
+  background-color: black;
+  color: white;
+}
+
+.set-border{
+  width:100%;
+  padding:50px;
+  background-color: black;
+  color: white;
+}
+
+.My-btn{
+  border:none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 12px;
+  width: 110px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.background{
+  background-image: url('mobilebanner.jpg');
+  height:290px;
+  width:100%;
+  color:rgb(0, 22, 121);
+}
+
+.count{
+ padding: 0.2rem;
+  background-color: black;
+margin: 5px;
+  border-radius: 10px;
+  
+}
